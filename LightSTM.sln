@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightSTM", "LightSTM\LightSTM.csproj", "{CE0DE0D4-F4AC-4F45-A36E-BF6293030AB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightSTMTests", "LightSTMTests\LightSTMTests.csproj", "{D87AEA75-FC46-4D01-9D2D-5F60C6F79068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE0DE0D4-F4AC-4F45-A36E-BF6293030AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0DE0D4-F4AC-4F45-A36E-BF6293030AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0DE0D4-F4AC-4F45-A36E-BF6293030AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0DE0D4-F4AC-4F45-A36E-BF6293030AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D87AEA75-FC46-4D01-9D2D-5F60C6F79068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D87AEA75-FC46-4D01-9D2D-5F60C6F79068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D87AEA75-FC46-4D01-9D2D-5F60C6F79068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D87AEA75-FC46-4D01-9D2D-5F60C6F79068}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
